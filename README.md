@@ -1,2 +1,2 @@
 # ZXLReactNative
-联系ReactNative
+练习ReactNative
